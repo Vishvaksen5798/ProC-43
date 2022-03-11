@@ -2,8 +2,8 @@ var bg,bg2,form,system,code,security;
 var score=0;
 
 function preload() {
-  bg = loadImage(".../aladdin_cave.jpg");
-  bg2 = loadImage(".../treasure.jpg")
+  bg = loadImage("aladdin_cave.jpg");
+  bg2 = loadImage("treasure.jpg")
 }
 
 function setup() {
